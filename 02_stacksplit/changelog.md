@@ -2,11 +2,20 @@
 
 ## Release [v4.0]() (2025-MM-DD)
 
-** Undependent release from original [stacksplit repo]() by [Michael Grund](https://github.com/michaelgrund)**
+** Undependent release from original [stacksplit repo](https://github.com/michaelgrund/stacksplit) by [Michael Grund](https://github.com/michaelgrund)**
 
-* XXX
-* XXX
-* XXX
+Changes **not** include in original stacksplit repo
+
+* xxx
+* xxx
+* xxx
+
+Changes include in original stacksplit repo
+
+* xxx
+* xxx
+* xxx
+
 
 **Contributors**: [Michael Grund](https://github.com/michaelgrund), [Yvonne Fröhlich](https://github.com/yvonnefroehlich)
 
