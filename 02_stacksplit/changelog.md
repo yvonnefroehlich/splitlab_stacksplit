@@ -2,7 +2,7 @@
 
 ## Release [v4.0]() (2025-MM-DD)
 
-** Undependent release from original [stacksplit repo](https://github.com/michaelgrund/stacksplit) by [Michael Grund](https://github.com/michaelgrund)**
+**Undependent release from original [stacksplit repo](https://github.com/michaelgrund/stacksplit) by [Michael Grund](https://github.com/michaelgrund)**
 
 Changes **not** include in original stacksplit repo
 
