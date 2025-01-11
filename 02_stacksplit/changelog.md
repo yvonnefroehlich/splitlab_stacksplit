@@ -5,7 +5,7 @@
 > Release undependent from the original [stacksplit repo](https://github.com/michaelgrund/stacksplit).
 > For the changes included in the original stacksplit repo the related PRs are marked with a asterix (*).
 
-StackSplit-related
+**StackSplit-related**
 
 - Fix vline in exported STACK diagplot ([#5](https://github.com/michaelgrund/stacksplit/pull/5)* by YF)
 - Improve code and docs ([#24](https://github.com/michaelgrund/stacksplit/pull/24)* by YF)
@@ -13,12 +13,12 @@ StackSplit-related
 - Improve README ([#17](https://github.com/michaelgrund/stacksplit/pull/17)* by YF and [#28](https://github.com/michaelgrund/stacksplit/pull/28)* by MG)
 - Fix typos in "StackSplit - UserGuide" ([#10](https://github.com/michaelgrund/stacksplit/pull/10)* by YF)
 
-SplitLab-related
+**SplitLab-related**
 
 - Improve loading of matTaup Java class ([#26](https://github.com/michaelgrund/stacksplit/pull/26)* by YF)
 - Fix component order of exported seismograms ([#4](https://github.com/michaelgrund/stacksplit/pull/4)* by YF)
 
-MATLAB-related
+**MATLAB-related**
 
 - R2024a: Use "isscalar" instead of length comparison ([#25](https://github.com/michaelgrund/stacksplit/pull/25)* by YF)
 - R2023b: Replace removed function "resizem" by "imresize" ([#13](https://github.com/michaelgrund/stacksplit/pull/13)* by YF)
