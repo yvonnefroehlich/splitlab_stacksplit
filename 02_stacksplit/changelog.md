@@ -2,8 +2,8 @@
 
 ## Release [v4.0]() (2025-MM-DD)
 
-> Undependent release from original [stacksplit repo](https://github.com/michaelgrund/stacksplit).
-> For the changes included in the original stacksplit repo the related PRs are marked with a asterix.
+> Release undependent from the original [stacksplit repo](https://github.com/michaelgrund/stacksplit).
+> For the changes included in the original stacksplit repo the related PRs are marked with a asterix (*).
 
 StackSplit-related
 
