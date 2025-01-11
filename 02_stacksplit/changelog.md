@@ -2,38 +2,31 @@
 
 ## Release [v4.0]() (2025-MM-DD)
 
-> Undependent release from original [stacksplit repo](https://github.com/michaelgrund/stacksplit)
-
-**Changes _not_ include in original stacksplit repo**
-
-* xxx
-* xxx
-* xxx
-
-**Changes include in original stacksplit repo**
+> Undependent release from original [stacksplit repo](https://github.com/michaelgrund/stacksplit).
+> Changes included in the original stacksplit repo are marked with a asterix.
 
 StackSplit-related
 
-- Fix vline in exported STACK diagplot ([#5](https://github.com/michaelgrund/stacksplit/pull/5) by YF)
-- Improve code and docs ([#24](https://github.com/michaelgrund/stacksplit/pull/24) by YF)
-- Update docs and comments ([#11](https://github.com/michaelgrund/stacksplit/pull/11) by YF)
-- Improve README ([#17](https://github.com/michaelgrund/stacksplit/pull/17) by YF and [#28](https://github.com/michaelgrund/stacksplit/pull/28) by MG)
-- Fix typos in "StackSplit - UserGuide" ([#10](https://github.com/michaelgrund/stacksplit/pull/10) by YF)
+- *Fix vline in exported STACK diagplot ([#5](https://github.com/michaelgrund/stacksplit/pull/5) by YF)
+- *Improve code and docs ([#24](https://github.com/michaelgrund/stacksplit/pull/24) by YF)
+- *Update docs and comments ([#11](https://github.com/michaelgrund/stacksplit/pull/11) by YF)
+- *Improve README ([#17](https://github.com/michaelgrund/stacksplit/pull/17) by YF and [#28](https://github.com/michaelgrund/stacksplit/pull/28) by MG)
+- *Fix typos in "StackSplit - UserGuide" ([#10](https://github.com/michaelgrund/stacksplit/pull/10) by YF)
 
 SplitLab-related
 
-- Improve loading of matTaup Java class ([#26](https://github.com/michaelgrund/stacksplit/pull/26) by YF)
-- Fix component order of exported seismograms ([#4](https://github.com/michaelgrund/stacksplit/pull/4) by YF)
+- *Improve loading of matTaup Java class ([#26](https://github.com/michaelgrund/stacksplit/pull/26) by YF)
+- *Fix component order of exported seismograms ([#4](https://github.com/michaelgrund/stacksplit/pull/4) by YF)
 
 MATLAB-related
 
-- R2024a: Use "isscalar" instead of length comparison ([#25](https://github.com/michaelgrund/stacksplit/pull/25) by YF)
-- R2023b: Replace removed function "resizem" by "imresize" ([#13](https://github.com/michaelgrund/stacksplit/pull/13) by YF)
-- R2023a: Update code - Part 03 ([#20](https://github.com/michaelgrund/stacksplit/pull/20) by YF)
-- R2023a: Update code - Part 02 ([#14](https://github.com/michaelgrund/stacksplit/pull/14) by YF)
-- R2023a: Update code - Part 01 ([#12](https://github.com/michaelgrund/stacksplit/pull/12) by YF)
-- R2023a: Update usage of coastlines to work only using the Mapping Toolbox ([#9](https://github.com/michaelgrund/stacksplit/pull/9) by YF)
-- Use 'exist' with two arguments ([#22](https://github.com/michaelgrund/stacksplit/pull/22) by YF)
+- *R2024a: Use "isscalar" instead of length comparison ([#25](https://github.com/michaelgrund/stacksplit/pull/25) by YF)
+- *R2023b: Replace removed function "resizem" by "imresize" ([#13](https://github.com/michaelgrund/stacksplit/pull/13) by YF)
+- *R2023a: Update code - Part 03 ([#20](https://github.com/michaelgrund/stacksplit/pull/20) by YF)
+- *R2023a: Update code - Part 02 ([#14](https://github.com/michaelgrund/stacksplit/pull/14) by YF)
+- *R2023a: Update code - Part 01 ([#12](https://github.com/michaelgrund/stacksplit/pull/12) by YF)
+- *R2023a: Update usage of coastlines to work only using the Mapping Toolbox ([#9](https://github.com/michaelgrund/stacksplit/pull/9) by YF)
+- *Use 'exist' with two arguments ([#22](https://github.com/michaelgrund/stacksplit/pull/22) by YF)
 
 **Contributors**: [Yvonne Fröhlich](https://github.com/yvonnefroehlich), [Michael Grund](https://github.com/michaelgrund)
 
