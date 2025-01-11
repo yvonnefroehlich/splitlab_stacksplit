@@ -3,7 +3,7 @@
 ## Release [v4.0]() (2025-MM-DD)
 
 > Undependent release from original [stacksplit repo](https://github.com/michaelgrund/stacksplit).
-> Changes included in the original stacksplit repo are marked with a asterix.
+> For the changes included in the original stacksplit repo the related PRs are marked with a asterix.
 
 StackSplit-related
 
@@ -26,7 +26,7 @@ MATLAB-related
 - R2023a: Update code - Part 02 ([#14](https://github.com/michaelgrund/stacksplit/pull/14)* by YF)
 - R2023a: Update code - Part 01 ([#12](https://github.com/michaelgrund/stacksplit/pull/12)* by YF)
 - R2023a: Update usage of coastlines to work only using the Mapping Toolbox ([#9](https://github.com/michaelgrund/stacksplit/pull/9)* by YF)
-- Use 'exist' with two arguments ([#22](https://github.com/michaelgrund/stacksplit/pull/22)* by YF)
+- Use "exist" with two arguments ([#22](https://github.com/michaelgrund/stacksplit/pull/22)* by YF)
 
 **Contributors**: [Yvonne Fröhlich](https://github.com/yvonnefroehlich), [Michael Grund](https://github.com/michaelgrund)
 
