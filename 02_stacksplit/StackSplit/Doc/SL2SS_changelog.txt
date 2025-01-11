@@ -1,5 +1,5 @@
-For full functionality of StackSplit the following (original) SplitLab functions are modified or added
-during the installation process:
+For full functionality of StackSplit the following (original) SplitLab functions are modified or
+added during the installation process:
 
 splitlab.m               adjustments for implementation of StackSplit
 geterrorbars.m           fixed taper and ndf calculation (see Walsh et al., 2013)
