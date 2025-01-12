@@ -17,8 +17,8 @@ function [FIsec, FIyyyy, EQsec, Omarker] = getFileAndEQseconds(F,eqin,offset)
 % Modifications to fix extraction of start time by SplitLab
 % (unconsidered milliseconds or seconds of start time)
 % GitHub: https://github.com/yvonnefroehlich/SplitLab-TemporalAlignment
-% Publication: Fröhlich, Grund, Ritter (2022) Annals of Geophysics
-% https://doi.org/10.4401/ag-8781
+% Publication: Fröhlich, Grund, Ritter (2022) Annals of Geophysics, 66(2).
+% https://doi.org/10.4401/ag-8781.
 %==========================================================================
 
 
