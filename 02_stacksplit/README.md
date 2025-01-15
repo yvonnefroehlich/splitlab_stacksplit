@@ -53,7 +53,7 @@ be processed:
 
 ## Releases and compatibility with SplitLab and MATLAB versions
 
-| StackSplit | Date (YYYY/MM/DD) | Zenodo DOI | SplitLab | MATLAB |
+| StackSplit | Date | Zenodo DOI | SplitLab | MATLAB |
 | --- | --- | --- | --- | --- |
 | [dev YF](https://github.com/yvonnefroehlich/splitlab_stacksplit) | | | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2024b](https://mathworks.com/help/releases/R2024b/index.html) (< 2024b might work, but not tested yet) |
 | [dev MG](https://github.com/michaelgrund/stacksplit) | | | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2020a](https://mathworks.com/help/releases/R2020a/index.html) (< 2020a might work, but not tested yet) |
