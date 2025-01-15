@@ -10,7 +10,7 @@ related functions are marked with a asterix (*).
 | preSplit.m*             | adjustments to save new outputs temporary    | modified | |
 | splitdiagnosticplot.m*  | adjustments to save new outputs temporary    | modified | |
 | saveresult.m*           | adjustments to save new outputs finally      | modified | |
-| database editResults.m* | adjustments to avoid database conflicts      | modified | |
+| database_editResults.m* | adjustments to avoid database conflicts      | modified | |
 | seisfigbuttons.m*       | adjustments to avoid database conflicts      | modified | |
 | getFileAndEQseconds.m*  | fixed start time extraction by SplitLab      | modified | v3.0, see Fröhlich et al., 2022) |
 | checkmattaupclass.m*    | improvements to load matTaup Java class      | added    | v4.0 |
