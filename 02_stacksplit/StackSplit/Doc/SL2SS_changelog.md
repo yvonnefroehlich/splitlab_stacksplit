@@ -3,7 +3,7 @@ added during the installation process. For the changes included in the original 
 related functions are marked with a asterix (*).
 
 | Function | Changes | | Remark |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | splitlab.m*             | adjustments for implementation of StackSplit | modified | |
 | geterrorbars.m*         | fixed taper and ndf calculation              | modified | see Walsh et al., 2013 |
 | geterrorbarsRC.m*       | fixed taper and ndf calculation              | modified | see Walsh et al., 2013 |
