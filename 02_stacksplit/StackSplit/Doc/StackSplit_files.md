@@ -1,15 +1,3 @@
-**Releases**
-
-| Version | Date (YYYY/MM/DD)|
-| --- | --- |
-| StackSplit v1.0 | 2017/04/04 |
-| StackSplit v2.0 | 2019/06/28 |
-| StackSplit v3.0 | 2021/12/23 |
-| StackSplit v4.0 | 2025/MM/DD |
-
-
-**Files**
-
 The following functions are essential to run StackSplit (besides the SplitLab package).
 If any problem occurs or you have suggestions to make StackSplit better please don't hesitate to
 open a new issue or PR on GitHub to give comments or address suggestions for improvements etc.
