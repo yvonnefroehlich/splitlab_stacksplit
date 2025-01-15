@@ -61,7 +61,7 @@ be processed:
 | [v2.0](https://github.com/michaelgrund/stacksplit/releases/tag/v2.0) | 2019/06/28 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7118716.svg)](https://doi.org/10.5281/zenodo.7118716) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | >= [2014b](https://mathworks.com/company/newsroom/mathworks-introduces-new-features-in-matlab-and-simulink.html) (tested up to and including [2018b](https://mathworks.com/help/releases/R2018b/index.html)) |
 | [v1.0](https://github.com/michaelgrund/stacksplit/releases/tag/v1.0) | 2017/04/04 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.464385.svg)](https://doi.org/10.5281/zenodo.464385) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | <= [2014a](https://mathworks.com/company/newsroom/mathworks-announces-release-2014a-of-the-matlab-and-simulink-product-families.html) |
 
-For details regarding the different StackSplit versions, see the [Changelog](ADD LINK).
+For details regarding the different StackSplit versions, see the [Changelog](https://github.com/yvonnefroehlich/splitlab_stacksplit/blob/add-release-dates-readme/02_stacksplit/changelog.md).
 
 
 ## References
