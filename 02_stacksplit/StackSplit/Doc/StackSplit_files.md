@@ -1,6 +1,6 @@
 **Releases**
 
-| Version | Date (YYYY/MM/DDD)|
+| Version | Date (YYYY/MM/DD)|
 | --- | --- |
 | StackSplit v1.0 | 2017/04/04 |
 | StackSplit v2.0 | 2019/06/28 |
