@@ -1,5 +1,5 @@
 For full functionality of StackSplit the following (original) SplitLab functions are modified or
-added during the installation process. For the changes included in the original stacksplit repo the
+added during the installation process. For the changes included in the original StackSplit repo the
 related functions are marked with a asterix (*).
 
 | Function | Changes | | Remark |
