@@ -5,7 +5,7 @@
 | StackSplit v1.0 | 2017/04/04 |
 | StackSplit v2.0 | 2019/06/28 |
 | StackSplit v3.0 | 2021/12/23 |
-| StackSplit v4.0 | 2023/MM/DD |
+| StackSplit v4.0 | 2025/MM/DD |
 
 
 **Files**
