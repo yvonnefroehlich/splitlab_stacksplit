@@ -51,15 +51,15 @@ be processed:
 ![fig4github](https://user-images.githubusercontent.com/23025878/56716351-6d3d2a80-673a-11e9-8b34-2191c119d780.png)
 
 
-## Compatibility with SplitLab and MATLAB versions
+## Releases and compatibility with SplitLab and MATLAB versions
 
-| StackSplit | SplitLab | MATLAB | Zenodo DOI|
-| --- | --- | --- | --- |
-| [dev YF](ADD LINK) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2024b](https://mathworks.com/help/releases/R2024b/index.html) (< 2024b might work, but not tested yet) | |
-| [dev MG](https://github.com/michaelgrund/stacksplit) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2020a](https://mathworks.com/help/releases/R2020a/index.html) (< 2020a might work, but not tested yet) | |
-| [v3.0](https://github.com/michaelgrund/stacksplit/releases/tag/v3.0) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2020a](https://mathworks.com/help/releases/R2020a/index.html) (< 2020a might work, but not tested yet) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5802051.svg)](https://doi.org/10.5281/zenodo.5802051) |
-| [v2.0](https://github.com/michaelgrund/stacksplit/releases/tag/v2.0) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | >= [2014b](https://mathworks.com/company/newsroom/mathworks-introduces-new-features-in-matlab-and-simulink.html) (tested up to and including [2018b](https://mathworks.com/help/releases/R2018b/index.html)) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7118716.svg)](https://doi.org/10.5281/zenodo.7118716) |
-| [v1.0](https://github.com/michaelgrund/stacksplit/releases/tag/v1.0) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | <= [2014a](https://mathworks.com/company/newsroom/mathworks-announces-release-2014a-of-the-matlab-and-simulink-product-families.html) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.464385.svg)](https://doi.org/10.5281/zenodo.464385) |
+| StackSplit | Date (YYYY/MM/DD) | Zenodo DOI | SplitLab | MATLAB |
+| --- | --- | --- | --- | --- |
+| [dev YF](https://github.com/yvonnefroehlich/splitlab_stacksplit) | | | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2024b](https://mathworks.com/help/releases/R2024b/index.html) (< 2024b might work, but not tested yet) |
+| [dev MG](https://github.com/michaelgrund/stacksplit) | | | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2020a](https://mathworks.com/help/releases/R2020a/index.html) (< 2020a might work, but not tested yet) |
+| [v3.0](https://github.com/michaelgrund/stacksplit/releases/tag/v3.0) | 2021/12/23 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5802051.svg)](https://doi.org/10.5281/zenodo.5802051) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2020a](https://mathworks.com/help/releases/R2020a/index.html) (< 2020a might work, but not tested yet) |
+| [v2.0](https://github.com/michaelgrund/stacksplit/releases/tag/v2.0) | 2019/06/28 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7118716.svg)](https://doi.org/10.5281/zenodo.7118716) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | >= [2014b](https://mathworks.com/company/newsroom/mathworks-introduces-new-features-in-matlab-and-simulink.html) (tested up to and including [2018b](https://mathworks.com/help/releases/R2018b/index.html)) |
+| [v1.0](https://github.com/michaelgrund/stacksplit/releases/tag/v1.0) | 2017/04/04 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.464385.svg)](https://doi.org/10.5281/zenodo.464385) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | <= [2014a](https://mathworks.com/company/newsroom/mathworks-announces-release-2014a-of-the-matlab-and-simulink-product-families.html) |
 
 For details regarding the different StackSplit versions, see the [Changelog](ADD LINK).
 
