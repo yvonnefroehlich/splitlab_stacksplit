@@ -1,4 +1,4 @@
-﻿# StackSplit - UserGuide
+﻿# StackSplit - User Guide
 
 **Versions**
 
@@ -21,7 +21,7 @@
    * [Installation](#installation)
    * [Running StackSplit](#running-stacksplit)
    * [Using StackSplit](#using-stacksplit)
-      * [The listbox](#the-listbox)
+      * [The list box](#the-listbox)
       * [The world map](#the-world-map)
       * [The Limits panel](#the-limits-panel)
       * [The Surface stack panel](#the-surface-stack-panel)
@@ -46,7 +46,7 @@ Toolbox) and the installer checks which of both is stored on your system.
 For details regarding the different StackSplit versions see the
 [Changelog](https://github.com/yvonnefroehlich/splitlab_stacksplit/blob/main/02_stacksplit/changelog.md).
 
-For further information on SplitLab see the corresponding UserGuide that is included in the download package.
+For further information on SplitLab see the corresponding User Guide that is included in the download package.
 
 
 ## License
@@ -174,9 +174,9 @@ for both approaches (surface stacking and SIMW).*
 
 **Additional remark**
 
-After running StackSplit the first time, please check if the single listbox entries are aligned below
+After running StackSplit the first time, please check if the single list box entries are aligned below
 their corresponding headlines, otherwise please open file ``SS_basic_settings.m`` and adjust the
-fontsize of the listbox entries in the upper part of the function for your needs.
+font size of the list box entries in the upper part of the function for your needs.
 
 
 ## Using StackSplit
@@ -185,13 +185,13 @@ From the StackSplit main window you can manage your whole multi-event processing
 workflow in **Fig. 1**). The possible options and structures in this window are briefly described in
 the following subsections (please note also the references to **Fig. 2**).
 
-### The listbox
+### The list box
 
 **(1)** in **Fig. 2**: Lists all available single event measurements for the current station project.
 If you did more than one measurement for an event (e.g. *SKS*, *SKKS*, *PKS*, ...) all of these are
-displayed in this list. Additionally, you maybe analyzed the same phase with different filters and
+displayed in this list. Additionally, maybe you analyzed the same phase with different filters and
 saved the results. Then these individual results also appear in the list. From left to right the
-information in the list are:
+information in the list is:
 
 - event source time based on your selected earthquake catalog
 - Julian day (JD) of the event’s appearance
@@ -203,14 +203,14 @@ information in the list are:
 - used filter in Hz
 - phase name
 
-Quality and null/non-null are indicated in color (see the two legends on top of the listbox).
+Quality and null/non-null are indicated in color (see the two legends on top of the list box).
 By default, the list is sorted by increasing BAZ. If you want to change this, open function
 ``SS_read_SLresults.m`` and modify the settings in the top row after the license and terms of
 use section.
 
 ### The world map
 
-**(2)**: Displays the currently selected entries from the listbox (blue dots) and the latest station
+**(2)**: Displays the currently selected entries from the list box (blue dots) and the latest station
 you are working on (red triangle). If no Mapping Toolbox is available on your system, please
 use the updated SplitLab version of Rob Porritt (see *Requirements*). In this way automatically a
 simplified world map is displayed at this position instead of the equidistance map.
@@ -233,7 +233,7 @@ normalization will be stacked
 2. WS (approach by **_Wolfe & Silver, 1998_**), each surface is normalized on its minimum value
 before stacking
 3. RH (approach by **_Restivo & Hellfrich, 1999_**), modified WS version with surfaces weighted
-depending on the singal-to-noise ratio (SNR) and normalized by backazimuthal coverage
+depending on the signal-to-noise ratio (SNR) and normalized by backazimuthal coverage
 before stacking (see **Fig. 3**)
 
 ![](images/stacksplit_weight_rh.png)
@@ -292,7 +292,7 @@ For a full PyGMT example in which splitting data is plotted see e.g. the
 that accompanies our paper on shear-wave splitting analysis in Fennoscandia.
 
 Furthermore, a diagnostic plot is saved for each measurement (see example in **Fig. 4**).
-If you select listbox entries of more than one phase (or filter) per event, a warning box will
+If you select list box entries of more than one phase (or filter) per event, a warning box will
 appear and asks for continuing or discarding the current calculation. The same happens if nulls and
 non-nulls are selected together. Please note that if any difference between e.g. *SKS* and *SKKS*
 appears stacking would potentially bias the overall result!
