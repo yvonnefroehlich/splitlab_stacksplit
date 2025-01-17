@@ -142,8 +142,8 @@ window. On the left side panel now a new push button **Stacking** is available a
 position (**Fig. 1**).
 
 ![](images/stacksplit_workflow.png)
-**_Fig. 1:** StackSplit workflow with main features/processing steps. Boxes colored in gray are essential,
-white ones indicate optional settings._
+***Fig. 1:** StackSplit workflow with main features/processing steps. Boxes colored in gray are essential,
+white ones indicate optional settings.*
 
 If no saved results of single event measurements are available for the current project, of course also no
 stacking is possible at this point. Before stacking single measurement results, you have to analyze your
@@ -164,12 +164,13 @@ Additionally, now you can select the **Stacking** button in the main panel. If m
 event measurement was saved before, a new graphical user interface (GUI) will open (**Fig. 2**).
 
 ![](images/stacksplit_usage.png)
-**_Fig. 2**: Graphical user interface of StackSplit for two different approaches. Top panel shows an
+***Fig. 2**: Graphical user interface of StackSplit for two different approaches. Top panel shows an
 example of five stacked minimum energy surfaces using the WS method. Bottom panel shows the concatenated
 waveforms for the same five events when SIMW is selected. Numbers highlighted with colors correspond to
 the module descriptions in the following section. Orange indicates modules that are available if a
 stacking method (no weight, WS, or RH) is selected, blue ones belong to SIMW. The red ones are available
-for both approaches (surface stacking and SIMW)._
+for both approaches (surface stacking and SIMW).*
+
 
 **Additional remark**
 
@@ -236,12 +237,12 @@ depending on the singal-to-noise ratio (SNR) and normalized by backazimuthal cov
 before stacking (see **Fig. 3**)
 
 ![](images/stacksplit_weight_rh.png)
-**_Fig. 3**: Sketch to demonstrate the implemented RH procedure. (a) Weighting function that assigns
+***Fig. 3**: Sketch to demonstrate the implemented RH procedure. (a) Weighting function that assigns
 a weighting factor between 0 and 1 to the corresponding error surface depending on the SNR of the event.
 (b) Each single error surface is scaled to a factor of 1/N, with its great-circle direction defining a
 wedge of +- 10&deg; in which N observations fall. The red dot enclosed by the thick black line represents
 the current used measurement, the black dots the remaining single measurements. The parameters for both,
-weighting and normalization, can be adjusted in function ``SS_calc_RH.m``._
+weighting and normalization, can be adjusted in function ``SS_calc_RH.m``.*
 
 The default setting after starting StackSplit the first time for a project is **no weight**. Additionally
 the user can choose between two different types of surface inputs by adjusting the **Surf input** pop up
@@ -297,8 +298,8 @@ non-nulls are selected together. Please note that if any difference between e.g.
 appears stacking would potentially bias the overall result!
 
 ![](images/stacksplit_surfstack.png)
-**_Fig. 4**: Exemplary diagnostic plot for the surface stacking approach with five used single
-minimum energy (SC) surfaces. The 95% confidence region is enclosed by the thick black line._
+***Fig. 4**: Exemplary diagnostic plot for the surface stacking approach with five used single
+minimum energy (SC) surfaces. The 95% confidence region is enclosed by the thick black line.*
 
 ### The Joint inversion panel
 
@@ -330,10 +331,10 @@ saved in the pre-selected results folder (see example in **Fig. 5**). After clos
 plot, the user can make a new measurement using SIMW or switch to another method.
 
 ![](images/stacksplit_simw.png)
-**_Fig. 5**: SIMW diagnostic plot for five exemplary *SKS* phase records from earthquakes that
+***Fig. 5**: SIMW diagnostic plot for five exemplary *SKS* phase records from earthquakes that
 occurred in the Pacific region between fall 2014 and fall 2016. Displayed are the standard SplitLab
 panels, except the world map in the upper right corner that displays all the used events. The header
-gives additional information about the measurement and the input data._
+gives additional information about the measurement and the input data.*
 
 ### The Exit button
 
