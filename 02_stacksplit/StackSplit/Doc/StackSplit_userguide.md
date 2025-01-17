@@ -64,16 +64,15 @@ FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License3 for more d
 ## Bugs and errors
 
 If any problems occur while installing/running StackSplit (especially due to MATLAB version issues)
-or you found a potential bug, please feel free to open a new [issue](https://github.com/michaelgrund/stacksplit/issues)
-or [pull request](https://github.com/michaelgrund/stacksplit/pulls) here on GitHub. Please indicate the corresponding
+or you found a potential bug, please feel free to open a new [issue](https://github.com/yvonnefroehlich/splitlab_stacksplit/issues)
+or [pull request](https://github.com/yvonnefroehlich/splitlab_stacksplit/pulls) here on GitHub. Please indicate the corresponding
 function that generates the error and/or copy/paste the whole error message output of MATLAB. If StackSplit does not
 fulfill your expectations, don't hesitate to provide comments and suggestions for improvements etc.
 
 
 ## Miscellaneous
 
-For updates of the StackSplit package, please have a look on the [GitHub repo](https://github.com/michaelgrund/stacksplit)
-or the [MATLAB exchange](https://de.mathworks.com/matlabcentral/fileexchange/62402) server. The latter one mirrors the GitHub repo.
+For updates of the StackSplit package, please have a look on the [GitHub repo](https://github.com/yvonnefroehlich/splitlab_stacksplit).
 
 If you make use of StackSplit please acknowledge the following contributing papers:
 
