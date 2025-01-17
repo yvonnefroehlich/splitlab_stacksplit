@@ -2,6 +2,7 @@
 
 **Versions**
 
+- PDF file included in the package (v1.0 and v2.0)
 - December 2021 (v3.0)
 - Monat YYYY (v4.0)
 
