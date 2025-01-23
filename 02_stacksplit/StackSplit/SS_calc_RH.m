@@ -22,7 +22,6 @@ function [wf, countN] = SS_calc_RH(SNR, bazi_single, bazi_all, h)
 % 2025 Yvonne Fröhlich, Karlsruhe Institute of Technology (KIT)
 % GitHub: https://github.com/yvonnefroehlich/splitlab_stacksplit/tree/main/02_stacksplit
 % Versions: v4.0
-%
 % 2016  Michael Grund, Karlsruhe Institute of Technology (KIT)
 % GitHub: https://github.com/michaelgrund
 % Versions: v1.0 - v3.0

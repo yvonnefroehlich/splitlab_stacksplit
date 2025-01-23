@@ -20,7 +20,6 @@ function [merged_str, find_res] = SS_read_SLresults( ...
 % 2025 Yvonne Fröhlich, Karlsruhe Institute of Technology (KIT)
 % GitHub: https://github.com/yvonnefroehlich/splitlab_stacksplit/tree/main/02_stacksplit
 % Versions: v4.0
-%
 % 2016  Michael Grund, Karlsruhe Institute of Technology (KIT)
 % GitHub: https://github.com/michaelgrund
 % Versions: v1.0 - v3.0
