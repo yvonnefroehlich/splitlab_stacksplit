@@ -92,13 +92,13 @@ function SS_stacksplit_start
 % LICENSE
 %
 % Copyright (C)
-% 2016  Michael Grund, Karlsruhe Institute of Technology (KIT)
-% GitHub: https://github.com/michaelgrund
-% Versions: v1.0 - v3.0
-%
 % 2025 Yvonne Fröhlich, Karlsruhe Institute of Technology (KIT)
 % GitHub: https://github.com/yvonnefroehlich/splitlab_stacksplit/tree/main/02_stacksplit
 % Versions: v4.0
+%
+% 2016  Michael Grund, Karlsruhe Institute of Technology (KIT)
+% GitHub: https://github.com/michaelgrund
+% Versions: v1.0 - v3.0
 %
 % This program is free software: you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as published by
