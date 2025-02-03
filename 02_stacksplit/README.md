@@ -23,7 +23,7 @@ If you make use of StackSplit in your work, please acknowledge the paper in whic
   *Computers & Geosciences*, 105, 43-50.
   https://doi.org/10.1016/j.cageo.2017.04.015.
 
-It's recommanded to cite also the included corrections:
+It's recommended to cite also the included corrections:
 
 - [**_Walsh, E., Arnold, R. & Savage, M. K. (2013)_**](https://doi.org/10.1002/jgrb.50386).
   Silver and Chan revisited.
