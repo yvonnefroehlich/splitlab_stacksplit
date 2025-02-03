@@ -250,7 +250,7 @@ for ii=1:length(find_res) % color results depending on quality ranking
     % see https://de.mathworks.com/help/matlab/ref/datetime.html#buhzxmk-1-Format
     % sel_qual=[datestr(datestrings,'yyyy/mm/dd_HH:MM:SS'),...
     sel_qual=[char(datetime(datestrings, 'Format','yyyy/MM/dd_HH:mm:ss')),...
-    ' | ' num2str(find_res(ii).date(end),'%03d'),... 
+    ' | ' num2str(find_res(ii).date(end),'%03d'),...
     ' | ' chbet_baz num2str(find_res(ii).bazi,'%.01f'),...
     ' | ' chbet_dis num2str(find_res(ii).dis,'%3.1f'),...
     ' | ' chbet_inipol num2str(find_res(ii).results.inipol,'%3.1f'),...
@@ -261,19 +261,20 @@ for ii=1:length(find_res) % color results depending on quality ranking
 
     % using html syntax to generate coloured entries, at this point:
     % thanks to Yair Altman's undocumented MATLAB site
-    % (http://undocumentedmatlab.com/blog/html-support-in-matlab-uicomponents)
+    % (https://undocumentedmatlab.com/articles/html-support-in-matlab-uicomponents)
+	% >>> Not working for R2025a and higher <<<
     if strcmp(find_res(ii).results.quality,'good') && strcmp(find_res(ii).results.Null,'No')
-       String=['<HTML><font color="#088A29"> &#9650<&nbsp ' sel_qual '</font></HTML>'];
+        String=['<HTML><font color="#088A29"> &#9650<&nbsp ' sel_qual '</font></HTML>'];
     elseif strcmp(find_res(ii).results.quality,'fair') && strcmp(find_res(ii).results.Null,'No')
-       String=['<HTML><font color="#000000"> &#9650<&nbsp ' sel_qual '</font></HTML>'];
+        String=['<HTML><font color="#000000"> &#9650<&nbsp ' sel_qual '</font></HTML>'];
     elseif strcmp(find_res(ii).results.quality,'poor') && strcmp(find_res(ii).results.Null,'No')
-          String=['<HTML><font color="#B40404"> &#9650<&nbsp ' sel_qual '</font></HTML>'];
+        String=['<HTML><font color="#B40404"> &#9650<&nbsp ' sel_qual '</font></HTML>'];
     elseif strcmp(find_res(ii).results.quality,'good') && strcmp(find_res(ii).results.Null,'Yes')
-         String=['<HTML><font color="#0040FF"> &#9660<&nbsp ' sel_qual '</font></HTML>'];
+        String=['<HTML><font color="#0040FF"> &#9660<&nbsp ' sel_qual '</font></HTML>'];
     elseif strcmp(find_res(ii).results.quality,'fair') && strcmp(find_res(ii).results.Null,'Yes')
-       String=['<HTML><font color="#8904B1"> &#9660<&nbsp ' sel_qual '</font></HTML>'];
+        String=['<HTML><font color="#8904B1"> &#9660<&nbsp ' sel_qual '</font></HTML>'];
     elseif strcmp(find_res(ii).results.quality,'poor') && strcmp(find_res(ii).results.Null,'Yes')
-       String=['<HTML><font color="#6E6E6E"> &#9660<&nbsp ' sel_qual '</font></HTML>'];
+        String=['<HTML><font color="#6E6E6E"> &#9660<&nbsp ' sel_qual '</font></HTML>'];
     end
 
     merged_str{ii}=String;
