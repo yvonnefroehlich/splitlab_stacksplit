@@ -1,16 +1,16 @@
-﻿# StackSplit - User Guide
+﻿# StackSplit - UserGuide
 
 **Versions**
 
 - PDF file included in the package (v1.0 and v2.0)
 - December 2021 (v3.0)
-- Monat YYYY (v4.0)
+- Monat 2025 (v4.0)
 
 **Changes**
 
 - 2021-12-23: Mainly written (MG)
 - 2023-01-04: Typo fixes (YF)
-- 2025-01-17:  (YF)
+- 2025-02-03: Formatting (YF)
 
 
 ## Contents
