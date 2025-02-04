@@ -17,13 +17,11 @@ function SS_gen_stackresplot( ...
 %==========================================================================
 % LICENSE
 %
-% Copyright (C)
-% 2025 Yvonne Fröhlich, Karlsruhe Institute of Technology (KIT)
-% GitHub: https://github.com/yvonnefroehlich/splitlab_stacksplit/tree/main/02_stacksplit
-% Versions: v4.0
-% 2016  Michael Grund, Karlsruhe Institute of Technology (KIT)
+% Copyright (C) 2025  Yvonne Fröhlich & Michael Grund (up on v4.0)
+% GitHub: https://github.com/yvonnefroehlich/splitlab_stacksplit
+% Copyright (C) 2021  Michael Grund & Yvonne Fröhlich (v3.0)
+% Copyright (C) 2020  Michael Grund (v1.0-v2.0)
 % GitHub: https://github.com/michaelgrund
-% Versions: v1.0 - v3.0
 %
 % This program is free software: you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as published by
