@@ -16,7 +16,7 @@ function [axH, axRC, axSC, axSeis, axwm] = SS_splitdiagnosticLayout(Synfig)
 % LICENSE
 %
 % Copyright (C) 2025  Michael Grund & Yvonne Fröhlich (up on v4.0)
-% GitHub: https://github.com/yvonnefroehlich/splitlab_stacksplit
+% GitHub: https://github.com/yvonnefroehlich/splitlab_stacksplit -> folder 02_stacksplit
 % Copyright (C) 2021  Michael Grund & Yvonne Fröhlich (v3.0)
 % Copyright (C) 2016  Michael Grund, Karlsruhe Institute of Technology (KIT) (v1.0-v2.0)
 % GitHub: https://github.com/michaelgrund
