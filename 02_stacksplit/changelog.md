@@ -2,8 +2,8 @@
 
 ## Release [v4.0]() (2025-MM-DD)
 
-> Release undependent from the original [stacksplit repo](https://github.com/michaelgrund/stacksplit).
-> For the changes included in the original stacksplit repo the related PRs are marked with a asterix (*).
+> Release undependent from the original [StackSplit repo](https://github.com/michaelgrund/stacksplit).
+> For the changes included in the original StackSplit repo, the related PRs are marked with an asterix (*).
 
 **StackSplit-related**
 
@@ -29,7 +29,7 @@
 - R2023a: Update usage of coastlines to work only using the Mapping Toolbox ([#9](https://github.com/michaelgrund/stacksplit/pull/9)* by YF)
 - Use "exist" with two arguments ([#22](https://github.com/michaelgrund/stacksplit/pull/22)* by YF)
 
-**Contributors**: [Yvonne Fröhlich](https://github.com/yvonnefroehlich), [Michael Grund](https://github.com/michaelgrund)
+**Contributors**: [Yvonne Fröhlich](https://github.com/yvonnefroehlich) (YF), [Michael Grund](https://github.com/michaelgrund) (MG)
 
 -----
 
