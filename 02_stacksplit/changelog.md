@@ -1,8 +1,8 @@
 # Changelog
 
-## Release [v4.0]() (2025-MM-DD)
+## Release dev
 
-> Release undependent from the original [StackSplit repo](https://github.com/michaelgrund/stacksplit).
+> Changes are undependent from the original [StackSplit repo](https://github.com/michaelgrund/stacksplit).
 > For the changes included in the original StackSplit repo, the related PRs are marked with an asterix (*).
 
 **StackSplit-related**
