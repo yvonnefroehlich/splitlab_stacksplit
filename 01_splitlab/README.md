@@ -3,6 +3,8 @@
 ### Single-event shear wave splitting analyses in MATLAB
 
 > [!NOTE]
+> Updated versions based on [SplitLab 1.2.1](https://robporritt.wordpress.com/software/).
+>
 > Planed for the middle or end of July 2025 🚀!
 
 
