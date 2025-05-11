@@ -1,15 +1,12 @@
 # SplitLab & StackSplit
 
-> [!NOTE]
-> Currently under develepoment - Use with caution!
-
 
 ## Updated versions of
 
 - [01_splitlab](https://github.com/yvonnefroehlich/splitlab_stacksplit/tree/main/01_splitlab):
-  **SplitLab** ([**_Wüstefeld et al. 2008_**](https://doi.org/10.1016/j.cageo.2007.08.002)) based on SplitLab 1.2.1
+  **SplitLab** ([**_Wüstefeld et al. 2008_**](https://doi.org/10.1016/j.cageo.2007.08.002)) based on [SplitLab 1.2.1](https://robporritt.wordpress.com/software/)
 - [02_stacksplit](https://github.com/yvonnefroehlich/splitlab_stacksplit/tree/main/02_stacksplit):
-  **StackSplit** ([**_Grund 2017_**](https://doi.org/10.1016/j.cageo.2017.04.015)) based on StackSplit v3.0
+  **StackSplit** ([**_Grund 2017_**](https://doi.org/10.1016/j.cageo.2017.04.015)) based on [StackSplit v3.0](https://github.com/michaelgrund/stacksplit/releases/tag/v3.0)
 
 
 ## Related topics
