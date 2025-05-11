@@ -1,8 +1,5 @@
 # SplitLab & StackSplit
 
-> [!NOTE]
-> Currently under develepoment - Use with caution!
-
 
 ## Updated versions of
 

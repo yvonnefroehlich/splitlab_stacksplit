@@ -3,7 +3,7 @@
 ### Single-event shear wave splitting analyses in MATLAB
 
 > [!NOTE]
-> Currently under develepoment - Use with caution!
+> Planed for the middle or end of July 2025 🚀!
 
 
 ## Currently available versions
