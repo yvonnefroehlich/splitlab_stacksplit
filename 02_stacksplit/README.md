@@ -5,7 +5,7 @@
 > [!NOTE]
 > Updated versions based on [StackSplit v3.0](https://github.com/michaelgrund/stacksplit/releases/tag/v3.0).
 >
-> No compatibility of StackSplit with MATLAB R2025b yet
+> No compatibility of StackSplit with MATLAB R2025a yet
 > (please see [issue 12](https://github.com/yvonnefroehlich/splitlab_stacksplit/issues/12) for details).
 
 
