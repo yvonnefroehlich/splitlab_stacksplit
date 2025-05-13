@@ -10,7 +10,7 @@
 - Fix vline in exported STACK diagplot ([#5](https://github.com/michaelgrund/stacksplit/pull/5)* by YF)
 - Improve code and docs ([#24](https://github.com/michaelgrund/stacksplit/pull/24)* by YF)
 - Update docs and comments ([#11](https://github.com/michaelgrund/stacksplit/pull/11)* by YF)
-- Use tables in README ([367934a](https://github.com/yvonnefroehlich/splitlab_stacksplit/commit/367934a76a0780be8e65c0d6762a30cb6ec75de4) by YF)
+- Use tables in README ([367934a](https://github.com/yvonnefroehlich/splitlab-stacksplit/commit/367934a76a0780be8e65c0d6762a30cb6ec75de4) by YF)
 - Improve README ([#17](https://github.com/michaelgrund/stacksplit/pull/17)* by YF and [#28](https://github.com/michaelgrund/stacksplit/pull/28)* by MG)
 - Fix typos in "StackSplit - UserGuide" ([#10](https://github.com/michaelgrund/stacksplit/pull/10)* by YF)
 

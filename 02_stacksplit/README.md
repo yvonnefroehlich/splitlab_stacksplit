@@ -3,7 +3,10 @@
 ### A plugin for multi-event shear wave splitting analyses in SplitLab
 
 > [!NOTE]
-> Updated versions based on StackSplit [v3.0](https://github.com/michaelgrund/stacksplit/releases/tag/v3.0)
+> Updated versions based on [StackSplit v3.0](https://github.com/michaelgrund/stacksplit/releases/tag/v3.0).
+>
+> No compatibility of StackSplit with MATLAB R2025a yet
+> (please see [issue 12](https://github.com/yvonnefroehlich/splitlab-stacksplit/issues/12) for details).
 
 
 StackSplit ([**_Grund 2017_**](https://doi.org/10.1016/j.cageo.2017.04.015)) is a plugin for the MATLAB toolbox
@@ -11,7 +14,7 @@ SplitLab ([**_Wüstefeld et al. 2008_**](https://www.sciencedirect.com/science/a
 which allows applying multi-event techniques for shear wave splitting (SWS) measurements directly within the
 main program.
 
-For details regarding installation and usage, see the [UserGuide](https://github.com/yvonnefroehlich/splitlab_stacksplit/blob/main/02_stacksplit/StackSplit/Doc/StackSplit_userguide.md).
+For details regarding installation and usage, see the [UserGuide](https://github.com/yvonnefroehlich/splitlab-stacksplit/blob/main/02_stacksplit/StackSplit/Doc/StackSplit_userguide.md).
 
 
 ## Citation
@@ -55,13 +58,13 @@ be processed:
 
 | StackSplit | Date | Zenodo DOI | SplitLab | MATLAB |
 | --- | --- | --- | --- | --- |
-| [dev YF](https://github.com/yvonnefroehlich/splitlab_stacksplit) | | | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2024b](https://mathworks.com/help/releases/R2024b/index.html) (< 2024b might work, but not tested yet) |
+| [dev YF](https://github.com/yvonnefroehlich/splitlab-stacksplit) | | | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2024b](https://mathworks.com/help/releases/R2024b/index.html) (< 2024b might work, but not tested yet) |
 | [dev MG](https://github.com/michaelgrund/stacksplit) | | | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2020a](https://mathworks.com/help/releases/R2020a/index.html) (< 2020a might work, but not tested yet) |
 | [v3.0](https://github.com/michaelgrund/stacksplit/releases/tag/v3.0) | 2021/12/23 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5802051.svg)](https://doi.org/10.5281/zenodo.5802051) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 (not tested) | >= [2020a](https://mathworks.com/help/releases/R2020a/index.html) (< 2020a might work, but not tested yet) |
 | [v2.0](https://github.com/michaelgrund/stacksplit/releases/tag/v2.0) | 2019/06/28 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7118716.svg)](https://doi.org/10.5281/zenodo.7118716) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | >= [2014b](https://mathworks.com/company/newsroom/mathworks-introduces-new-features-in-matlab-and-simulink.html) (tested up to and including [2018b](https://mathworks.com/help/releases/R2018b/index.html)) |
 | [v1.0](https://github.com/michaelgrund/stacksplit/releases/tag/v1.0) | 2017/04/04 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.464385.svg)](https://doi.org/10.5281/zenodo.464385) | [1.2.1](https://robporritt.wordpress.com/software/), 1.0.5 | <= [2014a](https://mathworks.com/company/newsroom/mathworks-announces-release-2014a-of-the-matlab-and-simulink-product-families.html) |
 
-For details regarding the different StackSplit versions, see the [Changelog](https://github.com/yvonnefroehlich/splitlab_stacksplit/blob/main/02_stacksplit/changelog.md).
+For details regarding the different StackSplit versions, see the [Changelog](https://github.com/yvonnefroehlich/splitlab-stacksplit/blob/main/02_stacksplit/changelog.md).
 
 
 ## References
