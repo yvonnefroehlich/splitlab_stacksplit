@@ -45,7 +45,7 @@ version of Rob Porritt. However, StackSplit was designed to work with both versi
 Toolbox) and the installer checks which of both is stored on your system.
 
 For details regarding the different StackSplit versions see the
-[Changelog](https://github.com/yvonnefroehlich/splitlab_stacksplit/blob/main/02_stacksplit/changelog.md).
+[Changelog](https://github.com/yvonnefroehlich/splitlab-stacksplit/blob/main/02_stacksplit/changelog.md).
 
 For further information on SplitLab see the corresponding User Guide that is included in the download package.
 
@@ -64,15 +64,15 @@ FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License3 for more d
 ## Bugs and errors
 
 If any problems occur while installing/running StackSplit (especially due to MATLAB version issues)
-or you found a potential bug, please feel free to open a new [issue](https://github.com/yvonnefroehlich/splitlab_stacksplit/issues)
-or [pull request](https://github.com/yvonnefroehlich/splitlab_stacksplit/pulls) here on GitHub. Please indicate the corresponding
+or you found a potential bug, please feel free to open a new [issue](https://github.com/yvonnefroehlich/splitlab-stacksplit/issues)
+or [pull request](https://github.com/yvonnefroehlich/splitlab-stacksplit/pulls) here on GitHub. Please indicate the corresponding
 function that generates the error and/or copy/paste the whole error message output of MATLAB. If StackSplit does not
 fulfill your expectations, don't hesitate to provide comments and suggestions for improvements etc.
 
 
 ## Miscellaneous
 
-For updates of the StackSplit package, please have a look on the [GitHub repo](https://github.com/yvonnefroehlich/splitlab_stacksplit).
+For updates of the StackSplit package, please have a look on the [GitHub repo](https://github.com/yvonnefroehlich/splitlab-stacksplit).
 
 If you make use of StackSplit please acknowledge the following contributing papers:
 
