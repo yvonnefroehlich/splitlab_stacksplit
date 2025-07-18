@@ -48,7 +48,7 @@ be processed:
 | --- | --- | --- | --- |
 | **WS** | Stacking of error surfaces | Normalization on the minimum or maximum (depending on input) of each single surface | [**_Wolfe & Silver (1998)_**](https://doi.org/10.1029/97JB02023) |
 | **RH** | Modified WS method | Weighting on the SNR of each measurement; normalization regarding the available backazimuth directions | [**_Restivo & Helffrich (1999)_**](https://doi.org/10.1046/j.1365-246x.1999.00845.x) |
-| **no weight** | Stacking of error surfaces | No weighting | [**_Wüstefeld (2007)_**](https://splitting.gm.univ-montp2.fr/) |
+| **no weight** | Stacking of error surfaces | No weighting | [**_Wüstefeld (2007)_**](https://splitting.gm.univ-montp2.fr) |
 | **SIMW** | Simultaneous inversion of multiple waveforms | Waveform concentration and joint inversion in time domain | [**_Roy et al. (2017)_**](https://doi.org/10.1093/gji/ggw470) |
 
 ![fig4github](https://user-images.githubusercontent.com/23025878/56716351-6d3d2a80-673a-11e9-8b34-2191c119d780.png)
@@ -81,10 +81,10 @@ For details regarding the different StackSplit versions, see the [Changelog](htt
   Seismic anisotropy of oceanic upper mantle: Shear wave splitting methodologies and observations.
   *Journal of Geophysical Research*, 103(B1), 749-771,
   https://doi.org/10.1029/97JB02023.
-- [**_Wüstefeld, A. (2007)_**](https://splitting.gm.univ-montp2.fr/).
+- [**_Wüstefeld, A. (2007)_**](https://splitting.gm.univ-montp2.fr).
   Methods and applications of shear wave splitting: The East European Craton.
   *Ph.D. thesis*, Univ. de Montpellier, France.
-  https://splitting.gm.univ-montp2.fr/.
+  https://splitting.gm.univ-montp2.fr.
 - [**_Wüstefeld, A., Bokelmann, G., Zaroli, C., Barruol, G. (2008)_**](https://doi.org/10.1016/j.cageo.2007.08.002).
   SplitLab: A shear-wave splitting environment in Matlab.
   *Computers & Geosciences*, 34, 515–528,
